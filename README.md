@@ -46,5 +46,6 @@
 提供PC版和安卓平台版本，并有计划在项目完善后推出浏览器插件版本。
 
 ## 运行截图
+![image](https://github.com/lirui-li/SecretBook-android/blob/master/picture/image.png)
 
 
